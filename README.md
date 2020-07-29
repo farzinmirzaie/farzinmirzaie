@@ -1,16 +1,15 @@
+
+---
+
+<div align="center">
+  <img src="https://github.com/farzinmirzaie/farzinmirzaie/blob/master/meme.png"/>
+</div>
+
+---
+
 ### Hi there 👋
 
-<!--
-**farzinmirzaie/farzinmirzaie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently working on a [Monorepo](https://en.wikipedia.org/wiki/Monorepo) template for JavaScript projects as a side project for fun! 😎
+- I’m currently learning [TypeScript](https://www.typescriptlang.org/) and [Spanish](https://www.duolingo.com/) 🇪🇸
+- You can reach me at [farzin.mirzaie@gmail.com](mailto:farzin.mirzaie@gmail.com) 📫
+- I insanely love nature and it's beauty! 🌊☀️🏖⛰
